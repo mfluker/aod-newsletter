@@ -1,0 +1,29 @@
+[
+{
+    "domain": "canvas.artofdrawers.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "PHPSESSID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "ketf3ggovr3pe79musedcghl04",
+    "id": 1
+},
+{
+    "domain": "canvas.artofdrawers.com",
+    "expirationDate": 1760292436,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "username",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "mat.fluker",
+    "id": 2
+}
+]
